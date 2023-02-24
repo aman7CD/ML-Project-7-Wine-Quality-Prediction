@@ -71,3 +71,5 @@ if (prediction[0]==1):
   print('The Quality of the Wine is Good.')
 else:
   print('The Quality of the Wine is Bad.')
+
+  
